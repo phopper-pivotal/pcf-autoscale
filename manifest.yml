@@ -2,6 +2,6 @@
 applications:
 - name: scale-demo-v1.0
   memory: 128M
-  instances: 1
+  instances: 3
   host: scale
   path: .
